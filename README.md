@@ -2,8 +2,8 @@
 
 ## Description
 * Version 1.0 - 08/2017
-* Framework to automatize the generation of email reports, including functions to:
-  * create and send text or html email body
+* Python framework to automatize the generation of email reports, including functions to:
+  * create and send text/html email body
   * include local or generated image file in the email body or as an attachment
   * generate predesigned CSS HTML tables in the email body
   * attach Csv / Excel files containing dynamic data
