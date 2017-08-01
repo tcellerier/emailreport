@@ -35,7 +35,7 @@ print """# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 emailFrom = 'alice@gmail.com'
 emailTo = 'bob@gmail.com' # doit être un string avec les destinataires séparés par des virgules, et different de From
 emailCC = '' # optionnel (string avec les destinataires séparés par des virgules)
-emailErrorTo = 'alice@gmail.com'  # doit etre different de From
+emailErrorTo = 'error@gmail.com'  # doit etre different de From
 
 emailSubject = "Test CSS Table"
 
