@@ -2,11 +2,11 @@
 
 ## Description
 * Version 1.0 - 08/2017
-* Framework to automatize the generation of email reports with:
-  * text or html email body
-  * local or generated image file included
-  * CSS HTML tables predesigned
-  * Attached CSV / Excel files with data extracted from databases
+* Framework to automatize the generation of email reports, including functions to:
+  * create and send text or html email body
+  * include local or generated image file in the email body or as an attachment
+  * generate predesigned CSS HTML tables in the email body
+  * attach Csv / Excel files containing dynamic data
 
 ## Usage
     usage: emailreport.py [-h] [-e <email>] [-p1 <param1>] [-p2 <param2>] [-p3 <param3>] script_file
